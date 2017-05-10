@@ -1,0 +1,6 @@
+version: '2'
+services:
+  extruct:
+    build: ./extruct
+    ports:
+     - "10005:10005"

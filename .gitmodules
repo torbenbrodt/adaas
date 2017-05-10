@@ -1,0 +1,3 @@
+[submodule "extruct/extruct"]
+	path = extruct/extruct
+	url = https://github.com/scrapinghub/extruct.git
